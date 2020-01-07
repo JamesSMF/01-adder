@@ -5,8 +5,8 @@
 ## Download
 
 ```bash 
-$ git clone https://github.com/UCSC-CSE-110A/hw0-<username>.git
-$ cd hw0-<username>/
+$ git clone https://github.com/UCSC-CSE-110A/hw1-<username>.git
+$ cd hw1-<username>/
 ```
 
 
