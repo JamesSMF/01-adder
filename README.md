@@ -4,10 +4,11 @@
 
 ## Download
 
-```sh
-git clone https://github.com/ucsd-cse131-sp19/01-adder.git
-cd 01-adder/
+```bash 
+$ git clone https://github.com/UCSC-CSE-110A/hw0-<username>.git
+$ cd hw0-<username>/
 ```
+
 
 In this assignment you'll implement a compiler for a small language called
 Adder (because it primarily adds things).
@@ -395,15 +396,7 @@ as many types of bugs as possible.
 
 ## Submission Instructions
 
-We will be using [Gradescope](http://www.gradescope.com) for homework collection and grading.
+We will be using GitHub Classroom for all submissions.
 
-To submit your assignment, first create a `zip` file of your submission by
-running the following from assignment's root directory:
-
-```bash
-make zip
-```
-
-This will create a zip file called `adder.zip` that you can proceed to upload
-to Gradescope. That's it! You should receive feedback from Gradescope as soon
-as the submission is graded.
+To submit your assignment, commit and push your code to your GitHub Classrom repository. Note: GitHub Classroom
+treats commits that are pushed after the deadline as separate submissions.
